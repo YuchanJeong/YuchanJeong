@@ -1,5 +1,5 @@
-## 💻 Main Tech
+# About me
 
-<a href="https://github.com/YuchanJeong/WIL/blob/master/JavaScript/JavaScript.md"><img src="https://img.shields.io/badge/JavsScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black" style="height: 1.5rem"/></a>
-<a href="https://github.com/YuchanJeong/WIL/blob/master/JavaScript/React.md"><img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=black" style="height: 1.5rem"/></a>
-<a href="https://github.com/YuchanJeong/WIL/blob/master/JavaScript/Redux-toolkit.md"><img src="https://img.shields.io/badge/Redux--toolkit-764ABC.svg?&style=flat-square&logo=redux&logoColor=white" style="height: 1.5rem"/></a>
+<a href="mailto:wertypoiu@pusan.ac.kr"><img src="https://img.shields.io/badge/E―mail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white" style="height: 1.5rem"/></a>
+<a href="https://yuchanjeong.github.io/"><img src="https://img.shields.io/badge/Blog-181717.svg?&style=for-the-badge&logo=Github&logoColor=white" style="height: 1.5rem"/></a>
+<a href="https://stackoverflow.com/users/16967930/yuchanjeong"><img src="https://img.shields.io/badge/Stack_Overflow-F58025.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white" style="height: 1.5rem"/></a><br/>
