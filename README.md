@@ -1,6 +1,6 @@
 # ❗️ About me
 
-### ⌨️ Keyworld 
+### ⌨️ Key world 
 
 - Pros : `Philomath` `Optimistic` `Meticulous` `Proactive` `Consistent`
 - Cons : `Overconcentration` `Reserved`
