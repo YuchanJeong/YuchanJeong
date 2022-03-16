@@ -3,7 +3,7 @@
 ### ⌨️ Keyworld 
 
 - Pros : `Philomath` `Optimistic` `Meticulous` `Proactive` `Consistent`
-- Cons : `Overconcentration` `Reserved`
+- Cons : `Overconcentrated` `Reserved`
 
 ### 👇 Follow me on
 
