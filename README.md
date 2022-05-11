@@ -1,4 +1,4 @@
-# ❗️ About me
+# About me
 
 ### 👇 Follow me on
 
