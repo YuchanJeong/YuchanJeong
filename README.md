@@ -1,9 +1,5 @@
 # About me
 
-| Name         | Residence  | Language                              |
-| ------------ | ---------- | ------------------------------------- |
-| Yuchan Jeong | Dubai, UAE | Korean(Native), English(Intermediate) |
-
 ### 👇 Follow me on
 
 | Contact        | Details                                                                                                      |
