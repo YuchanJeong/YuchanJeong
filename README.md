@@ -1,15 +1,23 @@
 # About me
 
+<img src="https://user-images.githubusercontent.com/84524514/167863098-414650df-4075-4b94-b5be-f37bef90e4d5.png" width="200"/>
+
+> A developer who wants to help create a better world :)
+
+| Name         | Residence  | Language                              |
+| ------------ | ---------- | ------------------------------------- |
+| Yuchan Jeong | Dubai, UAE | Korean(Native), English(Intermediate) |
+
 ### 👇 Follow me on
 
 | Contact        | Details                                                                                                      |
 | -------------- | ------------------------------------------------------------------------------------------------------------ |
-| Mobile Number  | -                                                                                                            |
+| Mobile Number  | +82 10 2855 9845                                                                                             |
 | E-mail         | [yuchanjeong0923@gmail.com](mailto:yuchanjeong0923@gmail.com)                                                |
-| Blog           | [https://yuchanjeong.github.io](https://yuchanjeong.github.io)                                               |
+| Github         | [https://github.com/YuchanJeong](https://github.com/YuchanJeong)                                             |
 | Stack Overflow | [https://stackoverflow.com/users/16967930/yuchanjeong](https://stackoverflow.com/users/16967930/yuchanjeong) |
 
-### ⌨️ Key world 
+### ⌨️ Key world
 
 - Pros : `Philomath` `Optimistic` `Meticulous` `Proactive` `Consistent`
 - Cons : `Overconcentration` `Reserved`
