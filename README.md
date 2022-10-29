@@ -4,7 +4,7 @@
 
 <img width="250px" alt="profile" src="https://user-images.githubusercontent.com/84524514/184883636-eef39eb0-2f2a-4a70-9bdc-8a1d54732bb9.JPG"/>
 
-| Name         | Company                                    | Languages                             |
+| Name         | Work                                    | Languages                             |
 | ------------ | ------------------------------------------ | ------------------------------------- |
 | Yuchan Jeong | [WithBecon](https://www.becon-global.com/) | Korean(Native), English(Intermediate) |
 
